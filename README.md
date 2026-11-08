@@ -1,3 +1,4 @@
+.main.py
 # Simple_Calculator
 A simple calculator built using c programming 
 #include <stdio.h>
